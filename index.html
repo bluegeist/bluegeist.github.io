@@ -6,8 +6,8 @@ title: wtftacos | not about tacos
 <ul class="posts">
   {% for post in site.posts %}
     <li>
-      <span>{{ post.date | date_to_string }}</span> &raquo; 
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <h4><span>{{ post.date | date_to_string }}</span> &raquo; 
+      <a href="{{ post.url }}">{{ post.title }}</a></h4>
       <p>{{post.excerpt}}</p>
     </li>
   {% endfor %}
