@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/joshscott
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://wtftacos.com
+  * I am joshscott (https://keybase.io/joshscott) on keybase.
+  * I have a public key with fingerprint 6EB3 BED8 6D3E F167 D20C  C688 999B 979B B1E2 7078
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "6eb3bed86d3ef167d20cc688999b979bb1e27078",
+            "host": "keybase.io",
+            "key_id": "999b979bb1e27078",
+            "uid": "c569e4d5d27eab29d7fb3908e6054400",
+            "username": "joshscott"
+        },
+        "service": {
+            "hostname": "wtftacos.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1403539314,
+    "expire_in": 157680000,
+    "prev": "57e7446ed11673ebc6264bfde2e9da466028edab6eadff399977c22e696c0ffc",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFtkVtIFFEYx8etLKXNfSkhNHAKzBSbnZk9Z2ZNqey1elC7PbTMmTmzTuXM7s7s
+qtm2WOxDIGQKRpooGJFEamUmFCoaBal0EQpDEfMC4kNpkfVQdkbsrfNyON/3+/+/
+y6l1bqAcCbeabjY9/ByoSBge+IaoonvHo1U0MpRK2ltFn8drl6rpfhwKhDTdor00
+wIhDWBGAwmHVDaDCMrIMBEEURSRCESE3ZiEDBTqHLjVMW0FskGTiXM0gMfLwaQqJ
+/ocPryVkDxAxr3gUFmIJsaICVcSJjIAB4+F5hrFBE4d0qQwT+pxhlpqyYVl0NIcm
+4YgmY7tpu/Y6Um6pliQbZq5slBFxIGRYhmxcIJlSywp4baFVGVgjMfKte/iQpitk
+cCKI4JCpGTrtdRNStjTb1M0znIcTOTefQ+OKgBbCPs0mPBAIDDl2GRwhlh6IIc8D
+rLjJrjiMZMACHqkKZrGoSDwADCtgRUIAS4qqcmQrEMosi4EIZEZVZdqeKqgbtBeS
+NiU/sTQ1vy5Z4RCmo8nXEtI2UgkOKnGTw/47KjnJ9e9H/5ibV2Nn3/hPb98Vzzo5
+Bwpaw3PV4z9OTW0Ns/FteR2L+yMrPemPii8N9BRUUFNXhvLbu14+P7JSlxJL3Xlo
+NGmBOZzxYKkR9gY63tamLk9TruU27UVwtvBEzXBN3BwZ7CxxCq19+1aLPbu/umDv
+0p5nE3nTTx2G3l3YVBSXfh+MftGdjaOvGsYG85PbM+GW9z2dQy3Brvl6133nDme8
+qoGh+P7ZjJnB18XH4lfv1qa3fb+tJ/kW0mcmagp9I6i87jGcHbkeO/DuQ3fzWFlJ
+f8vP2MeJoct3bjzxtvc1pwipq45fe9OCTNrAZO943sVPsfrsrGxmcnE+szoxwzpz
+NPsv
+=Byje
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joshscott
+
+==================================================================
+
