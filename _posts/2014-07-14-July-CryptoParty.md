@@ -1,0 +1,18 @@
+---
+layout: post
+title: July CryptoParty 
+catagories: CryptoParty
+tags: wtftacos, CryptoParty
+---
+
+This month we will be talking about Tor! This will be a very hands on class with demos and hands on installation and use of Tor. Please bring your laptops if you can. We will be walking you through how to install, configure and use Tor. We will also be discussing setting up your own Tor node.
+
+ 
+Improving Enterprises
+16633 Dallas Pkwy #100 Addison, TX 75001
+Food and drinks will be provided. BYOB.
+
+*****THE DOOR MAY BE LOCKED*****
+The business that hosts us closes at 5PM, but there is a guard that comes by on tour several times per hour and will open the door. One of the organizers will be checking the door on a regular basis as well so please do not be discouraged by a locked door.
+
+Even though it isn’t required please consider an RSVP if you plan to attend so that I can get an accurate headcount for food. You can RSVP through either [Eventbrite](http://cryptopartydfw.eventbrite.com/), [Twitter](https://twitter.com/scottjosh), or email me at josh [at] wtftacos [dot] com
