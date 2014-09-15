@@ -6,6 +6,7 @@ tags: wtftacos, CryptoParty
 ---
 
 When: Thursday Sep 18th at 7 PM
+
 Where: Improving Enterprises 16633 Dallas Pkwy #100 Addison, TX 75001
 
 Food and drinks will be provided. BYOB.
