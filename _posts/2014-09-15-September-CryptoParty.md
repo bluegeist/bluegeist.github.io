@@ -1,0 +1,19 @@
+---
+layout: post
+title: September CryptoParty 
+catagories: CryptoParty
+tags: wtftacos, CryptoParty
+---
+
+This month we will be talking about OTR chat. OTR is a type of instant messaging that encrypts all of your chats from end-to-end so that nobody can snoop on them on the wire. This is a hands on demo so bring your mobile devices and/or your laptops as we will be going through the process of setting up an account, enabling OTR, and sending encrypted messages to each other in the class. Feel free to bring your laptops and questions. There will be food and drink and a handful of various computer security people willing and able to answer your questions.
+
+Improving Enterprises 16633 Dallas Pkwy #100 Addison, TX 75001 Food and drinks will be provided. BYOB.
+ 
+Improving Enterprises
+16633 Dallas Pkwy #100 Addison, TX 75001
+Food and drinks will be provided. BYOB.
+
+*****THE DOOR MAY BE LOCKED*****
+The business that hosts us closes at 5PM, but there is a guard that comes by on tour several times per hour and will open the door. One of the organizers will be checking the door on a regular basis as well so please do not be discouraged by a locked door.
+
+Even though it isn’t required please consider an RSVP if you plan to attend so that I can get an accurate headcount for food. You can RSVP through either [Eventbrite](http://cryptopartydfw.eventbrite.com/), [Twitter](https://twitter.com/scottjosh), or email me at josh [at] wtftacos [dot] com
