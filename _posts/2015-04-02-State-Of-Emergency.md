@@ -6,7 +6,7 @@ tags: Politics, Hackers
 ---
 On April 1st, 2015 President Barack Obama issued a new [executive order](https://www.whitehouse.gov/the-press-office/2015/04/01/executive-order-blocking-property-certain-persons-engaging-significant-m) declaring "a national emergency".
 
-In this latest expansion of the powers of the president he grants authority to the US Treasury to "block" assets of those deemed to be engaged in "directly or indirectly, cyber-enabled activities originating from, or directed by persons located, in whole or in substantial part, outside the United States. This language is troubling. what exactly constitues a cyber-enabled activity? How does one define indirectly engaged in? If I create a security tool that is then used by a foreign state sponsored hacker am I indirectly engaged in the cyber-enabled activities?
+In this latest expansion of the powers of the president he grants authority to the US Treasury to "block" assets of those deemed to be engaged in "directly or indirectly, cyber-enabled activities originating from, or directed by persons located, in whole or in substantial part, outside the United States". This language is troubling. what exactly constitues a cyber-enabled activity? How does one define indirectly engaged in? If I create a security tool that is then used by a foreign state sponsored hacker am I indirectly engaged in the cyber-enabled activities?
 
 A little bit further down the order states that anyone that provides material or technological support to hackers will face such sanctions. Once again leading one to believe that if I were to create a new security auditing tool that a malicous actor uses to engage in infrastucture attacks against entities within the US that I would be subject to this blocking. 
 
